@@ -11,7 +11,7 @@
 
 Windows/Linux 下详细的安装与使用说明，请参考文档：
 
-**[WebStack-Hugo | 一个简洁的静态导航主题](https://www.yuque.com/shenweiyan/cookbook/webstack-hugo) - [语雀](https://www.yuque.com/shenweiyan)**
+**[PCNAV | 一颗跳跳糖的导航平台](https://qiect.github.io/pcnav) - [Chet](https://github.com)**
 
 
 ### 主题开源地址

@@ -20,10 +20,10 @@ $(function() {
                     $("#word").css("display", "block");
                     for (var i = 0; i < hotList-1; i++) {
                         if (i===hotList-1){
-                            $("#word").append('<li id="lastHot"><span>' + (i + 1) + "</span>" + res.s[i] + "</li>");
+                            $("#word").append('<li id="lastHot">' + res.s[i] + "</li>");
                         }
                         else{
-                            $("#word").append("<li><span>" + (i + 1) + "</span>" + res.s[i] + "</li>");
+                            $("#word").append("<li>" + res.s[i] + "</li>");
                         }
                         $("#word li").eq(i).click(function() {
                             $('#search-text').val(this.childNodes[1].nodeValue);

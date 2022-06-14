@@ -34,5 +34,5 @@ jobs:
           git push --tags --force gitee
         env:
           GITEE_REPOSITORY: qiect/pcnav
-          #GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
-          #GITEE_PASSWORD: ${{ secrets.GITEE_PASSWORD }}
+          GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
+          GITEE_PASSWORD: ${{ secrets.GITEE_PASSWORD }}

@@ -7,7 +7,7 @@
 (function($){ 
     $(document).ready(function(){
         // 侧栏菜单初始状态设置
-        if(theme.minNav != '1')trigger_resizable(true);
+        if(theme.minNav != '1')trigger_resizable(false);
         // 主题状态
         switch_mode(); 
         // 搜索模块

@@ -23,8 +23,8 @@ publishDir = "docs"
 
 [params.images]
     favicon           = "assets/images/favicon.png"
-    searchImageL      = "assets/images/search-bg-light.jpg"		#搜索部分浅色背景图
-    searchImageD      = "assets/images/search-bg-dark.jpg"		#搜索部分深色背景图
+    searchImageL      = ""		#搜索部分浅色背景图
+    searchImageD      = ""		#搜索部分深色背景图
     logoExpandLight   = "assets/images/bioitee-expand-light.png"
     logoExpandDark    = "assets/images/bioitee-expand-dark.png"
     logoCollapseLight = "assets/images/logo-collapse-light.png"

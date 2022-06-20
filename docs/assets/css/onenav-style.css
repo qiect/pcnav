@@ -523,10 +523,6 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 .header-big.canvas-fx{background-color:#1b1d1f}
 .post-top{padding-bottom:10px}
 .header-big.no-bg{padding-bottom:10px}
-//shenweiyan: 调整header-banner样式---------------start
-//.header-big.css-color{background-size:400%;background-position:0% 100%;-webkit-animation:gradient 7.5s ease-in-out infinite;animation:gradient 7.5s ease-in-out infinite}
-//.header-big.css-color{background-size:100% 100%; background-position:100% 90%;}
-//shenweiyan: 调整header-banner样式---------------end
 
 @-webkit-keyframes gradient{50%{background-position:100% 0}
 }
@@ -591,18 +587,18 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 .header-big #search button:active,.header-big #search button:focus{box-shadow:none;outline:none;border:0!important}
 /*.header-big .search-smart-tips{top:100px}*/
 .header-big .canvas-bg{position:absolute;top:0;width:100%;height:100%;border-width:0}
-//shenweiyan, 主页搜索搜索框底部字体颜色----------start
-//.header-big:not(.no-bg) .text-muted,.header-big:not(.no-bg) .search-type .menu-item a,.header-big:not(.no-bg) .big-title .h1{color:#fff!important} 
+/*shenweiyan, 主页搜索搜索框底部字体颜色----------start*/
+/* .header-big:not(.no-bg) .text-muted,.header-big:not(.no-bg) .search-type .menu-item a,.header-big:not(.no-bg) .big-title .h1{color:#fff!important}  */
 .header-big:not(.no-bg) .text-muted,.header-big:not(.no-bg) .search-type .menu-item a,.header-big:not(.no-bg) .big-title .h1{color:#6c757d!important}
-//shenweiyan, 主页搜索搜索框底部字体颜色----------end
+/* shenweiyan, 主页搜索搜索框底部字体颜色----------end */
 .header-big.no-bg #search-text{color:#fff;border:none;background-color:rgba(0,0,0,0.2)!important}
 .header-big.no-bg .search-type input:checked+label:before{border-color:rgba(0,0,0,0.2) transparent transparent}
 .header-big .search-type li.menu-item{padding:5px 10px 0px 10px}
 @media screen and (min-width:768px){.header-big{padding-top:80px;padding-bottom:110px}
-//shenweiyan, 主页header-banner底部宽度----------start
-//.post-top{padding-bottom:20px}
+/* shenweiyan, 主页header-banner底部宽度----------start */
+/* .post-top{padding-bottom:20px} */
 .post-top{padding-bottom:50px}
-//shenweiyan, 主页header-banner底部宽度----------end
+/* shenweiyan, 主页header-banner底部宽度----------end */
 .header-big.no-bg{padding-bottom:20px}
 .header-big .search-type li label,.header-big .search-type li.menu-item{padding:5px 20px}
 .header-big .s-type-list label span{padding:10px 20px}

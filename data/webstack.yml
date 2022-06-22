@@ -1,8 +1,7 @@
 ---
-
 - taxonomy: 常用推荐
   icon: far fa-star
-  links: 
+  links:
     - title: 今日热榜
       logo: https://file.ipadown.com/tophub/assets/images/logo.png
       url: https://www.yuque.com/
@@ -51,7 +50,6 @@
       logo: https://www.amp360.net/assets/icon/favicon.png
       url: https://www.amp360.net/
       description: 神奇工具箱！
-
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
@@ -126,7 +124,6 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
-        
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -165,18 +162,36 @@
           logo: 电影天堂.png
           url: https://www.dygod.net/
           description: 电影天堂（DYGOD），高清电影下载。
-    - term: 游戏竞技
+        - title: 西瓜视频
+          logo: https://sf1-cdn-tos.douyinstatic.com/obj/eden-cn/lpqpflo/ixigua_favicon.ico
+          url: https://www.ixigua.com/
+          description: 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心
+        - title: 芒果TV
+          logo: https://static.hitv.com/pc/icons/icon_64x64.1b7ca7.png
+          url: https://www.mgtv.com/
+          description: 大家都在看的在线视频网站
+    - term: 资源站
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: https://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-   
-      
+        - title: 电影先生
+          logo: http://dianying.im/statics/logo.png
+          url: http://dianying.im/
+          description: 电影、电视剧、综艺
+        - title: 12306视频
+          logo: https://www.12306.in/template/mojia/asset/img/favicon.png
+          url: https://www.12306.in/
+          description: 电影、电视剧、综艺
+        - title: 稀饭影视
+          logo: https://www.xifanys.com/upload/mxcms/20220515-1/7a48976a0302fc29e1f3db46371ea785.png
+          url: https://www.xifanys.com/
+          description: 电影、电视剧、综艺
+        - title: 555电影
+          logo: https://edu-30130.sz.gfp.tencent-cloud.com/ide/074c5400926f1ef81fc0cda77dd5f154.ico
+          url: https://www.555dy.vip/
+          description: 电影、电视剧、综艺
+        - title: 电影狗
+          logo: https://www.dianyinggou.com/favicon.ico
+          url: https://www.dianyinggou.com/
+          description: 电影狗 - 专业电影搜索引擎。
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
@@ -385,7 +400,7 @@
         - title: Abstract Fonts
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
+          description: Abstract Fonts (13,866 free fonts).
     - term: PPT资源
       links:
         - title: OfficePLUS
@@ -412,11 +427,10 @@
           url: http://ppt.500d.me/
           logo: 500d.png
           description: 中国领先的PPT模板共享平台。
-      
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
-  list: 
+  list:
     - term: 图形创意
       links:
         - title: photoshop
@@ -494,7 +508,7 @@
         - title: webgradients
           url: https://webgradients.com/
           logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
+          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
         - title: grabient
           url: https://www.grabient.com/
           logo: grabient.png
@@ -565,7 +579,7 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
+
     - term: 谷歌插件
       links:
         - title: wappalyzer
@@ -593,10 +607,9 @@
           logo: mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
 
-
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
-  list: 
+  list:
     - term: 资讯书籍
       links:
         - title: 微信读书
@@ -638,7 +651,7 @@
         - title: Awesome design systems
           url: https://github.com/alexpate/awesome-design-systems
           logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
+          description: A collection of awesome design systems.
         - title: Material Design
           url: https://material.io/guidelines/
           logo: Material_Design.png

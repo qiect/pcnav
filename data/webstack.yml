@@ -4,7 +4,7 @@
   links:
     - title: 今日热榜
       logo: https://file.ipadown.com/tophub/assets/images/logo.png
-      url: https://www.yuque.com/
+      url: https://tophub.today/
       description: 追踪全网热点、简单高效阅读。
     - title: 哔哩哔哩
       logo: 哔哩哔哩.png
@@ -173,7 +173,7 @@
     - term: 资源站
       links:
         - title: 电影先生
-          logo: http://dianying.im/statics/logo.png
+          logo: default.png
           url: http://dianying.im/
           description: 电影、电视剧、综艺
         - title: 12306视频
@@ -192,6 +192,10 @@
           logo: https://www.dianyinggou.com/favicon.ico
           url: https://www.dianyinggou.com/
           description: 电影狗 - 专业电影搜索引擎。
+        - title: 搜片
+          logo: https://soupian.app/images/icon.png
+          url: https://soupian.app/
+          description: 搜片,最新电影,电影大全,影视大全,在线电影,免费电影,电影在线观看,最新电视剧
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
